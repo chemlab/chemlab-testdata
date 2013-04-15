@@ -1,16 +1,16 @@
-# This file was created Mon Apr 15 10:59:24 2013
+# This file was created Mon Apr 15 14:02:46 2013
 # by the following command:
-# g_rdf -f cry.gro -n index.ndx 
+# /home/gabriele/workspace/gromacs/build/bin/g_rdf -f cry.gro -n index.ndx
 #
 # g_rdf is part of G R O M A C S:
 #
-# S  C  A  M  O  R  G
+# Gallium Rubidium Oxygen Manganese Argon Carbon Silicon
 #
 @    title "Radial distribution"
 @    xaxis  label "r"
 @    yaxis  label ""
 @TYPE xy
-@ subtitle "CL- - LI+"
+@ subtitle "LI+ - CL-"
          0          0
      0.002          0
      0.004          0
