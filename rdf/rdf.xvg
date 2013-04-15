@@ -1,16 +1,16 @@
-# This file was created Fri Mar 15 16:44:03 2013
+# This file was created Mon Apr 15 10:59:24 2013
 # by the following command:
 # g_rdf -f cry.gro -n index.ndx 
 #
 # g_rdf is part of G R O M A C S:
 #
-# Grunge ROck MAChoS
+# S  C  A  M  O  R  G
 #
 @    title "Radial distribution"
 @    xaxis  label "r"
 @    yaxis  label ""
 @TYPE xy
-@ subtitle "LI+ - CL-"
+@ subtitle "CL- - LI+"
          0          0
      0.002          0
      0.004          0
